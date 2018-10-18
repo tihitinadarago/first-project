@@ -1,0 +1,19 @@
+body  {
+    background: violet;
+    color: yellow
+}
+
+#asdf {
+    background: green;
+    color: white;
+}
+
+#firstParagraph{
+    font-size:36px;
+}
+
+.firstClass {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:28px;
+    text-align: center
+}
